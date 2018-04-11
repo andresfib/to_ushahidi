@@ -1,0 +1,16 @@
+{
+  "name": "aggie_to_ushahidi",
+  "version": "0.0.1",
+  "description": "This package sends Aggie public incidents to an Ushahidi deployment",
+  "main": ".to_ushahidi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "request": "^2.85.0",
+    "underscore": "^1.8.3"
+  }
+}
